@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using SportsStore.Models;
+using SportsStore.ViewModels;
 
 namespace SportsStore.Models.ViewModels {
 

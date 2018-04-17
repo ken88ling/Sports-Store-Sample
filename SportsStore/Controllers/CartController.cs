@@ -3,6 +3,8 @@ using Microsoft.AspNetCore.Mvc;
 using SportsStore.Models;
 using SportsStore.Models.ViewModels;
 using SportsStore.Repositories;
+using SportsStore.Services;
+using SportsStore.ViewModels;
 
 namespace SportsStore.Controllers
 {

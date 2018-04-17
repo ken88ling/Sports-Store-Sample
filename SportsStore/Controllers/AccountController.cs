@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 using SportsStore.Data;
 using SportsStore.Models.ViewModels;
 using SportsStore.Models;
+using SportsStore.ViewModels;
 
 namespace SportsStore.Controllers {
 

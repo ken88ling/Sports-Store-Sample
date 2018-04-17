@@ -1,5 +1,6 @@
 ﻿using System.Linq;
 using SportsStore.Models;
+using SportsStore.Services;
 using Xunit;
 
 namespace SportsStore.Tests {

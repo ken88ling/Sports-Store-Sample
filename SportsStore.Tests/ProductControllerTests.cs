@@ -8,6 +8,7 @@ using SportsStore.Models.ViewModels;
 using System;
 using Microsoft.AspNetCore.Mvc;
 using SportsStore.Repositories;
+using SportsStore.ViewModels;
 
 namespace SportsStore.Tests {
 

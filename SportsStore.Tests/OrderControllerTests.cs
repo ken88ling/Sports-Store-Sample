@@ -3,6 +3,7 @@ using Moq;
 using SportsStore.Controllers;
 using SportsStore.Models;
 using SportsStore.Repositories;
+using SportsStore.Services;
 using Xunit;
 
 namespace SportsStore.Tests {

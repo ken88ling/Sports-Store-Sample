@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Mvc.ViewFeatures;
 using Microsoft.AspNetCore.Razor.TagHelpers;
 using SportsStore.Models.ViewModels;
 using System.Collections.Generic;
+using SportsStore.ViewModels;
 
 namespace SportsStore.Infrastructure {
 
