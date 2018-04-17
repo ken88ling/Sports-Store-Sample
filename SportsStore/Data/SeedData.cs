@@ -1,10 +1,9 @@
-﻿using System.Linq;
-using Microsoft.AspNetCore.Builder;
+﻿using System;
+using System.Linq;
 using Microsoft.Extensions.DependencyInjection;
-using Microsoft.EntityFrameworkCore;
-using System;
+using SportsStore.Models;
 
-namespace SportsStore.Models {
+namespace SportsStore.Data {
 
     public static class SeedData {
 

@@ -3,8 +3,9 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 using Newtonsoft.Json;
 using SportsStore.Infrastructure;
+using SportsStore.Models;
 
-namespace SportsStore.Models
+namespace SportsStore.Services
 {
 
     public class SessionCart : Cart

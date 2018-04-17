@@ -1,4 +1,5 @@
 ﻿using System.Linq;
+using SportsStore.Data;
 using SportsStore.Models;
 
 namespace SportsStore.Repositories {

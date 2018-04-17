@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using SportsStore.Data;
 using SportsStore.Models.ViewModels;
 using SportsStore.Models;
 

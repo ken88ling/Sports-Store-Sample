@@ -7,6 +7,7 @@ using Microsoft.EntityFrameworkCore.Storage;
 using Microsoft.EntityFrameworkCore.Storage.Internal;
 using SportsStore.Models;
 using System;
+using SportsStore.Data;
 
 namespace SportsStore.Migrations.AppIdentityDb
 {

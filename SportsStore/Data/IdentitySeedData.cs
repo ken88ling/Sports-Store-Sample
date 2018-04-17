@@ -1,9 +1,7 @@
-﻿using Microsoft.AspNetCore.Builder;
+﻿using System.Threading.Tasks;
 using Microsoft.AspNetCore.Identity;
-using Microsoft.Extensions.DependencyInjection;
-using System.Threading.Tasks;
 
-namespace SportsStore.Models {
+namespace SportsStore.Data {
 
     public static class IdentitySeedData {
         private const string adminUser = "Admin";

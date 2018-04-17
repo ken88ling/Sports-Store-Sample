@@ -1,5 +1,6 @@
 ﻿using System.Linq;
 using Microsoft.EntityFrameworkCore;
+using SportsStore.Data;
 using SportsStore.Models;
 
 namespace SportsStore.Repositories {
