@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using SportsStore.Models;
 using SportsStore.Models.ViewModels;
+using SportsStore.Repositories;
 
 namespace SportsStore.Controllers
 {

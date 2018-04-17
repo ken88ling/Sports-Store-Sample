@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Linq;
 using SportsStore.Models;
+using SportsStore.Repositories;
 
 namespace SportsStore.Components {
 

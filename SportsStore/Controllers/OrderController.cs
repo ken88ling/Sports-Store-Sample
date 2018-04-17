@@ -2,6 +2,7 @@
 using SportsStore.Models;
 using System.Linq;
 using Microsoft.AspNetCore.Authorization;
+using SportsStore.Repositories;
 
 namespace SportsStore.Controllers
 {

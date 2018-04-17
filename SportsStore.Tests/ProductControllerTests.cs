@@ -7,6 +7,7 @@ using Xunit;
 using SportsStore.Models.ViewModels;
 using System;
 using Microsoft.AspNetCore.Mvc;
+using SportsStore.Repositories;
 
 namespace SportsStore.Tests {
 

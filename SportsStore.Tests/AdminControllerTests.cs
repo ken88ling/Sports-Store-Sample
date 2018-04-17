@@ -6,6 +6,7 @@ using SportsStore.Controllers;
 using SportsStore.Models;
 using Xunit;
 using Microsoft.AspNetCore.Mvc.ViewFeatures;
+using SportsStore.Repositories;
 
 namespace SportsStore.Tests {
 

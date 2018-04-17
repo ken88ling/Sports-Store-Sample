@@ -10,6 +10,7 @@ using SportsStore.Models;
 using Microsoft.Extensions.Configuration;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Identity;
+using SportsStore.Repositories;
 
 namespace SportsStore {
 

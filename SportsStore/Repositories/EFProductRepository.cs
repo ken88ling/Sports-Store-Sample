@@ -1,7 +1,7 @@
-﻿using System.Collections.Generic;
-using System.Linq;
+﻿using System.Linq;
+using SportsStore.Models;
 
-namespace SportsStore.Models {
+namespace SportsStore.Repositories {
 
     public class EFProductRepository : IProductRepository {
         private ApplicationDbContext context;
